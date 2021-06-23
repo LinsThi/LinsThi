@@ -1,7 +1,7 @@
 # Hi, i'm Lins 😄
 
-  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="200px" max-width="250px" width="200px" align="right"/>
-  
+  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="250x" max-width="300px" width="300px" align="right"/>
+
 ### 🤠 About me 
   - 🎓 I'm studying Computer Science at Federal University of Ceará.
   - 💻 Currently studying about React.js and Node(typescript)
