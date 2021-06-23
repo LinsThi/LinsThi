@@ -1,6 +1,6 @@
 # Hi, i'm Lins 😄
 
-  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="250x" max-width="280px" width="280px" align="right"/>
+  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="200x" max-width="250px" width="250px" align="right"/>
 
 ### 🤠 About me 
   - 🎓 I'm studying Computer Science at Federal University of Ceará.
