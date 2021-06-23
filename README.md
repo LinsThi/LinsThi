@@ -2,10 +2,10 @@
 
 
 ### 🤠 About me 
+  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="200px" max-width="250px" width="200px" align="right">
   - 🎓 I'm studying Computer Science at Federal University of Ceará.
   - 💻 Currently studying about React.js and Node(typescript)
   - 📌 In my spare time I like to study even more about frontend and backend, to become a full stack developer.
-  <img src= "https://i.pinimg.com/originals/89/c8/58/89c858205689c2756a3c434575f74c8b.png" min-width="200px" max-width="250px" width="200px" align="right" alt="">
 
 ### 🌊 My hobbies
   - 🎮 Playing with friends.
