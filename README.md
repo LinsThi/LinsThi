@@ -6,7 +6,7 @@
 
 - 🎓 I'm studying Computer Science at Federal University of Ceará.
 - 💻 Currently studying about React Native and Node(Typescript)
-- 📌 In my spare time I like to study even more about frontend and backend, to become a full stack developer.
+- 📌 In my spare time I like to study even more about frontend and mobile.
 
 ### 🌊 My hobbies
 
